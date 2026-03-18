@@ -1,6 +1,6 @@
 import { auth } from '../firebase';
 import { AdventureList } from './AdventureList';
-import { AdventureMap } from './AdventurMap';
+import { AdventureMap } from './AdventureMap';
 import { motion } from 'framer-motion';
 
 export const Dashboard = () => {
