@@ -60,7 +60,7 @@ export const Dashboard = () => {
         >
           {/* Internal Map Heading */}
           <div className="absolute top-6 left-6 z-[1000] bg-white/90 backdrop-blur-md px-4 py-2 rounded-2xl shadow-sm border border-stone-100">
-            <p className="text-[10px] font-bold text-stone-600 uppercase tracking-widest">Adventure Map</p>
+            {/* <p className="text-[10px] font-bold text-stone-600 uppercase tracking-widest">Adventure Map</p> */}
           </div>
           
           <AdventureMap />
