@@ -129,15 +129,15 @@ export const PopCard: React.FC<Props> = ({ onComplete }) => {
 
               <h2 className="text-4xl font-serif text-stone-800 mb-6 tracking-tight leading-tight">
                 Happy Birthday, <br />
-                <span className="italic text-sage font-medium text-5xl italic">Rachel!</span>
+                <span className="italic text-sage font-medium text-5xl italic">Babe!</span>
               </h2>
 
               <div className="space-y-4 text-stone-600 font-medium leading-relaxed text-lg mb-10">
                 <p>
-                  I wanted to build you something as unique as the pieces you crochet.
+                  I wanted to build you something as unique as the pieces you make with your crocheting. I love you so much! I know you have been planning our summer with awesome things to do! So i wanted to make you a website to keep track of all of them!!!
                 </p>
                 <p>
-                  Inside this hub, you'll find everything I've planned for our
+                  Inside this hub, you'll find all the ways to record our....
                   <span className="text-sage font-bold"> Summer of 2026.</span>
                 </p>
               </div>
