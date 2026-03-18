@@ -54,3 +54,12 @@
 ::selection {
   @apply bg-sage/20 text-stone-900;
 }
+
+.leaflet-popup-content-wrapper {
+  border-radius: 1.5rem !important;
+  padding: 8px !important;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.1) !important;
+}
+.leaflet-popup-tip {
+  display: none !important; /* Cleaner look without the little triangle */
+}
